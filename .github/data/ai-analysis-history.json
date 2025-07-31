@@ -1,0 +1,21 @@
+{
+  "lastUpdated": "2025-07-31T13:23:49.841Z",
+  "totalMergedPRs": 1,
+  "analyses": [
+    {
+      "timestamp": "2025-07-31T13:23:49.794Z",
+      "repository": "prince-deriv/shared-actions",
+      "pullRequest": "12",
+      "branch": "add-shiftai-workflows",
+      "author": "prince-deriv",
+      "prTitle": "Add GITHUB_TOKEN as optional secret for inherit compatibility",
+      "hasAnalysis": false,
+      "summary": {
+        "percentage": 0,
+        "totalCharacters": 0,
+        "aiCharacters": 0
+      },
+      "files": []
+    }
+  ]
+}
